@@ -23,6 +23,7 @@ MITライセンスにて公開しています。
 ```
 
 ### Unitypackageで追加
+本githubのReleaseもしくは
 [こちら](https://drive.google.com/file/d/1uQKIEbEhPFlocvv5pEvN_QM3ZEU7Cpcj/view?usp=sharing)から最新のunitypackageをダウンロードしてください。
 ダウンロードしたパッケージをご自身のプロジェクトへインポートすることで利用できます。
 
